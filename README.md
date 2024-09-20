@@ -15,6 +15,8 @@
 [Delete](Delete.md) :construction_worker:
 
 ## Tricks
+[Temp Tables](TempTables.md)
+
 [Loops without cursors](LoopWithoutCursor.md) :construction_worker:
 
 ## General Info
