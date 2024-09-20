@@ -1,3 +1,4 @@
+[Back](README.md)
 Data type | Description | Max size | Storage
 --- | --- | --- | ---
 char(n) | Fixed width character string | 8,000 characters | Defined width
