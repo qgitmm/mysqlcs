@@ -1,3 +1,4 @@
+Markdown | Less | Pretty
 char(n) | Fixed width character string | 8,000 characters | Defined width
 varchar(n) | Variable width character string | 8,000 characters | 2 bytes + number of chars
 varchar(max) | Variable width character string | 1,073,741,824 characters | 2 bytes + number of chars
