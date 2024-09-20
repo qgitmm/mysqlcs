@@ -1,4 +1,4 @@
-# My SQL Cheatsheet
+# MSSQL Cheatsheet
 ## Commands
 [Create Table](CreateTable.md)
 
