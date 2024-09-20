@@ -1,4 +1,5 @@
 [Back](README.md)
+# Create Table Script
 ```
 CREATE TABLE Persons (
     ID INT PRIMARY KEY IDENTITY,
