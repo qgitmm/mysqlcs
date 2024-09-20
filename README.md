@@ -19,3 +19,5 @@
 
 ## General Info
 [String Types](StringTypes.md)
+
+[Numeric Data Types](NumericDataTypes.md)
