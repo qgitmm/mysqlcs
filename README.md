@@ -2,20 +2,20 @@
 ## Commands
 [Create Table](CreateTable.md)
 
-[Delete Table](DeleteTable.md)
+[Delete Table](DeleteTable.md) :construction_worker:
 
 [Table Grants](TableGrants.md)
 
 [Select](Select.md)
 
-[Insert](Insert.md)
+[Insert](Insert.md) :construction_worker:
 
-[Update](Update.md)
+[Update](Update.md) :construction_worker:
 
-[Delete](Delete.md)
+[Delete](Delete.md) :construction_worker:
 
 ## Tricks
-[Loops without cursors](LoopWithoutCursor.md)
+[Loops without cursors](LoopWithoutCursor.md) :construction_worker:
 
 ## General Info
 [String Types](StringTypes.md)
