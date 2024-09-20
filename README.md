@@ -1,1 +1,1 @@
-# My sql cheat sheet
+# My sql cheatsheet
